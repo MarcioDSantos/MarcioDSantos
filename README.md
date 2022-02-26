@@ -1,5 +1,10 @@
+<div align="center">
+  <a href="https://github.com/MarcioDSantos">
+  <img  width="10%" src="https://img.shields.io/github/followers/{MarcioDSantos}.svg?style=social&label=Follow&maxAge=2592000"/>
+</div>
+##
+  
 ### Hi there, I'm Marcio dos Santos and I'm looking to become a developer 👋
-
 <!--
 
 
@@ -14,8 +19,8 @@
 -->
 <div align="center">
   <a href="https://github.com/MarcioDSantos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcioDSantos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioDSantos&layout=compact&langs_count=7&theme=merko"/>
+  <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=MarcioDSantos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioDSantos&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
   ##

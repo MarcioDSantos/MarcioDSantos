@@ -1,10 +1,13 @@
-<div align="center">
+
+### Hi there 👋
+### I'm Marcio dos Santos and I'm looking to become a developer.
+<div align="right">
   <a href="https://github.com/MarcioDSantos">
-  <img  width="10%" src="https://img.shields.io/github/followers/{MarcioDSantos}.svg?style=social&label=Follow&maxAge=2592000"/>
+  <img  width="15%" src="https://img.shields.io/github/followers/MarcioDSantos.svg?style=social&label=Follow&maxAge=2592000"/>
 </div>
+  
 ##
   
-### Hi there, I'm Marcio dos Santos and I'm looking to become a developer 👋
 <!--
 
 

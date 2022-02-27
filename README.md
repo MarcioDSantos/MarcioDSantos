@@ -1,6 +1,5 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MarcioDSantos/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
 <img align="right"  width="12%" src="https://img.shields.io/github/followers/MarcioDSantos.svg?style=social&label=Follow&maxAge=2592000"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marcio dos Santos</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marcio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcioDSantos&color=yellow" alt="Profile views" /> </p>
 
 ## ⚙️ &nbsp;GitHub Analytics
